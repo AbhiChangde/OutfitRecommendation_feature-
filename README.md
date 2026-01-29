@@ -147,10 +147,3 @@ Mobile-first UI
 Open-source AI models and libraries
 
 Inspiration from real-world fashion recommendation platforms
-
-
-Rewrite this for a PM-heavy or engineering-heavy audience
-
-Help you write a case-study version of this project
-
-Just tell me 👍
